@@ -171,14 +171,14 @@
   width: 60%;
   text-align: center;
   margin: auto;
-  z-index:3
+  z-index:3;
 }
 .table__sub{
   margin-top: 20px;
   width: 60%;
   text-align: center;
  margin:20px auto 0;
- z-index:3
+ z-index:3;
   
 }
 /*block feyman*/
@@ -317,15 +317,14 @@ align-self: flex-end;
   line-height: 30px;
   font-size: 18px;
   font-weight: 600;
+  margin: 0;
 }
 .column__link{
   display: flex;
   flex-direction: column;
   margin:20px 0 16px;
 }
-.column__heading{
-  margin: 0;
-}
+
 .column__links{
   text-align: left;
   line-height: 30px;
