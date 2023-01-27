@@ -6,7 +6,7 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
   display: flex;
   position: relative;
-  flex-direction: column;  
+  flex-direction: column;
 }
 /*header block*/
 .header {
@@ -22,7 +22,7 @@
   display: flex;
 }
 .header__text{
-  padding:30px 0 30px 64px ;
+  padding: 30px 0 30px 64px;
   z-index: 3;
   flex-direction: column;
   height: 100%;
@@ -71,7 +71,7 @@
 }
 /*block discription*/
 .description{
-  margin-top: 100px ;
+  margin-top: 100px;
   display: flex;
   justify-content: center; 
 }
@@ -220,7 +220,7 @@
   font-weight: 600;
 }
 .feynman__sub{
-  margin-top:70px ;
+  margin-top:70px;
   line-height: 51px;
   font-size: 36px;
   font-weight:normal;
@@ -307,7 +307,7 @@ align-self: flex-end;
   justify-content: space-between;
 }
 .author{
-  margin: 0 ;
+  margin: 0;
 }
 .footer__author{
   align-self: flex-start;
