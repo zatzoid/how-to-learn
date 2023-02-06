@@ -1,7 +1,12 @@
 @keyframes opacity {
 
-  from{ opacity: 1;}
-to{opacity: 0.4;}
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0.4;
+  }
 }
 
 .link-style {
@@ -12,16 +17,10 @@ to{opacity: 0.4;}
 
 .link-style:hover {
   animation: opacity 1s linear infinite alternate;
-
-
 }
 
 
-.link-style::after{
-
-  content: ' →' ;
+.link-style::after {
+  content: ' →';
 
 }
-
-
-
