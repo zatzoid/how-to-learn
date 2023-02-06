@@ -1,3 +1,4 @@
+@import url(../blocks/vendor/normalize.css);
 @import url(../blocks/page/page.css); /* page */
 @import url(../blocks/header/header.css); /* header*/
 @import url(../blocks/description/discription.css); /* discription*/
@@ -14,14 +15,14 @@
 @import url(../blocks/logo/_place/logo_place_header.css); /* logo mod */
 @import url(../blocks/link/link.css); /* links */
 @import url(../blocks/techniques/techniques.css); /* techniques */
-@import url(../blocks/rotation/animation_rotation.css); /* animation rotate */
+@import url(../blocks/rotation/rotation.css); /* animation rotate */
 @import url(../blocks/section/section.css);
 @import url(../blocks/video/video.css);
 @import url(../blocks/oakley/oakley.css);
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/resources/resources.css);
-
-
+@import url(../blocks/section/_theme/section_theme_dark.css);
+@import url(../blocks/cards/cards.css);
 
 
 
