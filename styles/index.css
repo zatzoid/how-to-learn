@@ -1,0 +1,49 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/description/discription.css);
+@import url(../blocks/digits/digits.css);
+@import url(../blocks/table/table.css);
+@import url(../blocks/feynman/feynman.css);
+@import url(../blocks/kaufman/kaufman.css);
+@import url(../blocks/kaufman/_theme/kaufman_theme_dark.css);
+@import url(../blocks/table/_theme/table_theme_dark.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/_theme/footer_theme_dark.css);
+@import url(../blocks/two-columns/two-columns.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/_place/logo_place_header.css);
+@import url(../blocks/link/link.css);
+@import url(../blocks/techniques/techniques.css);
+@import url(../blocks/rotation/rotation.css);
+@import url(../blocks/section/section.css);
+@import url(../blocks/video/video.css);
+@import url(../blocks/oakley/oakley.css);
+@import url(../blocks/khan/khan.css);
+@import url(../blocks/resources/resources.css);
+@import url(../blocks/section/_theme/section_theme_dark.css);
+@import url(../blocks/cards/cards.css);
+
+
+
+
+
+
+
+
+/* div,
+nav,
+ul,
+h2,h3,p,
+section {
+  border: 1px solid red;
+}
+
+li {
+  border: 1px solid green;
+}
+
+.theme_dark {
+  background-color: #1f1f1f;
+  color: white;
+} */
