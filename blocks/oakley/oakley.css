@@ -1,0 +1,10 @@
+.oakley{
+  padding-top: 160px;
+  background-color: var(--back-color);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+}
+
