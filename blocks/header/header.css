@@ -10,47 +10,6 @@
 }
 
 
-.header__title {
-  max-width: 730px;
-  line-height: 96px;
-  font-size: 102px;
-  font-weight: 600;
-  align-self: center;
-  margin: 0 0 0 64px;
-  z-index: 3;
 
-}
 
-.header__subtitle {
-  line-height: 25px;
-  font-size: 18px;
-  font-weight: normal;
-  max-width: 388px;
-  margin: 0;
-  position: absolute;
-  z-index: 3;
-  bottom: 30px;
-  left: 64px;
-}
 
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-  background-color: #2f80ed;
-  position: absolute;
-  top: 0;
-  right: 0;
-  margin-top: 64px;
-  z-index: 1;
-
-}
-
-.header__main-illustration {
-  height: 608px;
-  width: 765px;
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  z-index: 2;
-
-}
