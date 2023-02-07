@@ -1,0 +1,19 @@
+@keyframes opacity-logo {
+
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0.2;
+  }
+}
+
+.resources__logo {
+  width: 270px;
+  height: 38px;
+}
+
+.resources__logo:hover {
+  animation: opacity-logo 1s linear infinite alternate;
+}
