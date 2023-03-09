@@ -1,6 +1,6 @@
 
 #  How to learn
-
+ https://zatzoid.github.io/how-to-learn/
 ## Описание:
   Первая и вторая проектная работа .
 
